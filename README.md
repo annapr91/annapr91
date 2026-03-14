@@ -23,25 +23,21 @@ I'm a **Process Development & RPA Specialist** with a background in **Python and
 
 
 ### 💡 Core competencies 💡
-- Programming: 
+- ##### Programming: 
   * Python
   * SQL
-    
-- Data Analysis
+- ##### Data Analysis
   * pandas
   * NumPy
   * Data cleaning & transformation
   * Exploratory Data Analysis (EDA)
-    
-- Data Visualization
+- ##### Data Visualization
   * Matplotlib
   * Seaborn
   * Plotly (including Plotly Express)
- 
-- Frameworks
+- ##### Frameworks
   * Django (basic)
-    
-- Automation & Process Optimization
+- ##### Automation & Process Optimization
   * Business process analysis
   * RPA collaboration
   * Workflow documentation
