@@ -3,7 +3,7 @@
 I'm a **Process Development & RPA Specialist** with a background in **Python and Data Analysis**, currently expanding my expertise in **Data Science and Machine Learning**
 
 ### ✨ About me in 30 sec ✨ 
-🎓 Education:
+#### 🎓 Education:
  - Euroakadeemia — Bachelor's Degree in Business Management (2013–2016)
  - TeachMeSkills — Python Developer Course (2023)
  - SkillFactory — Data Science Program (2025–Present)
