@@ -47,3 +47,4 @@ I'm a **Process Development & RPA Specialist** with a background in **Python and
 ### ⚡️ Currently ⚡️
 - Working at Linde Europe
 - Studing the course Data Science
+- Expanding my SQL query knowledge and implementation
