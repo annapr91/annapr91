@@ -6,7 +6,7 @@ I'm a **Process Development & RPA Specialist** with a background in **Python and
 #### 🎓 Education:
  - Euroakadeemia — Bachelor's Degree in Business Management (2013–2016)
  - TeachMeSkills — Python Developer Course (2023)
- - SkillFactory — Data Science Program (2025–Present)
+ - Mate Academy — Data Science Program (2025–Present)
 
    
  #### 💼 Process Development & RPA Specialist — Linde Europe:
@@ -26,6 +26,7 @@ I'm a **Process Development & RPA Specialist** with a background in **Python and
 - ##### Programming: 
   * Python
   * SQL
+  * HTML/CSS
 - ##### Data Analysis
   * pandas
   * NumPy
